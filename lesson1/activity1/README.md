@@ -1,7 +1,7 @@
 ## TGC Solidity Lesson 1 Activity 1
 
-### My Name: John Doe
+### My Name: CINDY SIAH 
 
-### My Hobby: Programming
+### My Hobby: Blockchain 
 
-### My Goal: To be the best programme in the world
+### My Goal: To be the best programmer in the world
